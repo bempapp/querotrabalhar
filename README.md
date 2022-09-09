@@ -6,7 +6,7 @@ Afim de conseguir avaliar seu conhecimento técnico gostaríamos de lhe propôr 
 
 A idéia é que você escolha algum dos problemas existentes no site https://dojopuzzles.com/ e trabalhe encima dele. 
 
-O resultado desse trabalho você submete pra gente através do e-mail querotrabalharna@bemp.com.br.
+O resultado desse trabalho você submete pra gente através do e-mail querotrabalharna@bemp.com.br com um link para um repositório público de código (Exemplo Github) ou um arquivo zip contendo com os arquivos do projeto.
 
 ### Propósito do desafio
 
